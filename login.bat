@@ -1,0 +1,1 @@
+%logonserver%\netlogon\bginfo64.exe %logonserver%\netlogon\pcgbginfo.bgi /TIMER:00 /nolicprompt
