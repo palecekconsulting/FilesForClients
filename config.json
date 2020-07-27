@@ -1,0 +1,18 @@
+{
+    "installerType": "inno-setup",
+    "version": "3.3.4",
+    "binding": "https://pcgit.deskdirector.com",
+    "portalUrl": "https://pcgit.deskdirector.com/portal/v2",
+    "productName": "PCG Service Director",
+    "mspName": "usapcgit",
+    "entityId": "default",
+    "materialTheme": {
+        "primary": "grey",
+        "accent": "deep-orange",
+        "warn": "yellow",
+        "sideNavDark": false
+    },
+    "hotKeyActivate": "h",
+    "hotKeyModifier": "ctrl+alt",
+    "name": "deskdirectorportal"
+}
